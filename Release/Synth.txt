@@ -1,0 +1,2 @@
+parametername	parametervalue	parameterxposition	parameteryposition
+compRelease	0.014625	1008.737610	906.553223
